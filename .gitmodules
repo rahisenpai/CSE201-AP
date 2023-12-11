@@ -1,0 +1,3 @@
+[submodule "stick-hero"]
+	path = project
+	url = https://github.com/rahisenpai/stick-hero.git
